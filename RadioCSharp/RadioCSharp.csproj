@@ -137,6 +137,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Readme.me" />
     <None Include="Resources\up.png" />
   </ItemGroup>
   <ItemGroup>
