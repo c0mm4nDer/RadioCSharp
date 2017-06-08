@@ -34,9 +34,9 @@ Test system:
 * Windows 10
 * .Net framework 4.6.1 
 
-![First Page](https://raw.githubusercontent.com/c0mm4nDer/RadioCSharp/ver_1.0.5.0_vlc/RadioCSharp/Snapshots/s1.PNG)
+![First Page](https://raw.githubusercontent.com/c0mm4nDer/RadioCSharp/master/RadioCSharp/Snapshots/s1.PNG)
 
-![Add URLs](https://raw.githubusercontent.com/c0mm4nDer/RadioCSharp/ver_1.0.5.0_vlc/RadioCSharp/Snapshots/s2.PNG)
+![Add URLs](https://raw.githubusercontent.com/c0mm4nDer/RadioCSharp/master/RadioCSharp/Snapshots/s2.PNG)
 
 
 ## Authors
