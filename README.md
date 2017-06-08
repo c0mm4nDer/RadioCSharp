@@ -15,7 +15,7 @@ This app created by the VLC .net Library for stream every online audio stream fr
 
 * [Visual Studio 2017](https://www.visualstudio.com/) - The Windows IDE With .net Framework 4.6 
 * [ Bunifu UI](https://devtools.bunifu.co.ke/) - Third Party Libraries
-* [NAudio](https://github.com/naudio/NAudio) - An Open Source Audio Library ( **NOT USED BY THIS BRANCH!** )
+* [NAudio](https://github.com/naudio/NAudio) - An Open Source Audio Library
 * [VLC .NET](https://github.com/ZeBobo5/Vlc.DotNet) - An Library For Using VLC DLLs or Plugins Without need to register VLC ActiveX Plugin. 
 
 ## Getting Started
