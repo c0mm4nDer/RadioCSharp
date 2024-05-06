@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+This repository is now deprecated. This is no longer supported.
+
 # RadioCSharp
 
 This app created by the VLC .net Library for stream every online audio stream from URL. Also you can add playlist file (.pls) for show list of URLs .
